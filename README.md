@@ -1,2 +1,3 @@
-# Denoising_image
-This GitHub project demonstrates a noise reduction solution employing an Autoencoder. Trained on a dataset of noisy images, the Autoencoder preserves essential features while removing noise. It includes code, dataset, and model weights. Visual comparisons and evaluations highlight its effectiveness in restoring clean images from noisy inputs.
+##Denoising Images
+
+Image Denoising using Autoencoder with Keras (Trained on DIV2K Dataset). This repository presents a powerful image denoising solution. The Autoencoder is trained on Kaggle's DIV2K dataset, enabling noise removal while preserving crucial details. It includes code, pre-trained model weights, and an evaluation report. Easily denoise your own images with the provided script.
